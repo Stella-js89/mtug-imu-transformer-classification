@@ -1,6 +1,6 @@
 # mtug-imu-transformer-classification
-Transformer-based classification of elderly conditions using IMU data from the m-TUG test
--This project develops a Transformer-based deep learning model to classify elderly conditions using IMU sensor data collected from the m-TUG test.
+- Transformer-based classification of elderly conditions using IMU data from the m-TUG test
+- This project develops a Transformer-based deep learning model to classify elderly conditions using IMU sensor data collected from the m-TUG test.
 
 ## Dataset
 - m-TUG (modified Timed Up and Go test)
